@@ -143,7 +143,7 @@ def responsela():
             session_id = session.get('session_id'),
             input={
                 'message_type': 'text',
-                'text': "polite" +" "+input,
+                'text': "imolite" +" "+input,
                 'options': {
                     'return_context': True
                     }
