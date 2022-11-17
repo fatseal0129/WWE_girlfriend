@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>ChatMate.com</title>
+	<link rel="stylesheet" href="{{url_for('static', filename='index.css')}}" type="text/css">
+</head>
+<body>
+	<div class="message_box">
+		<div class="form__group field">
+			<!--這裡是輸入的地方-->
+  			<input type="input" class="form__field" placeholder="訊息" name="name" id='message' required />
+			<!--上面是輸入的地方-->
+  			<label for="name" class="form__label">說些話吧</label>	
+		</div>
+		<div class="response_box">
+			<h1 id=response_text>{{response}}</h1>
+		</div>
+		<div class="girlfriend">
+			<img id="girl" src="{{ url_for('static', filename='g.png') }}" alt="女朋友">
+		</div>
+			<div class="ask_box">
+				<h2 id="ask_text">在下方輸入你想說的話吧</h2>
+			</div>
+			<button id = "btn2" onclick= "trans()">
+			</button>
+	</div>
+	
+</body>
+<!-- src="index.js"-->
+<script src="{{ url_for('static', filename='jquery-3.6.1.min.js') }}"></script>
+<script src="{{ url_for('static', filename='index.js') }}"></script>
+</html>

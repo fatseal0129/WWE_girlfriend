@@ -1,0 +1,172 @@
+
+#btn2{
+    width: 100px;
+    height: 40px;
+    margin-left: 80%;
+    margin-bottom: -70px ;
+    background-image: url("btn.png");
+    background-size: 100% 100%;
+}
+.form__group {
+  position: relative;
+  padding: 10px 0 0;
+  margin-top: 10px;
+  width: 40%;
+  background-color: rgba(255, 255, 255, 0.8) ;
+}
+
+.form__field {
+  font-family: inherit;
+  width: 100%;
+  border: 0;
+  border-bottom: 2px solid cadetblue;
+  outline: 0;
+  font-size: 1.3rem;
+  color: gray;
+  padding: 7px 0;
+  background: transparent;
+  transition: border-color 0.2s;
+}
+.form__field::placeholder {
+  color: transparent;
+}
+.form__field:placeholder-shown ~ .form__label {
+  font-size: 1.3rem;
+  cursor: text;
+  top: 20px;
+}
+
+.form__label {
+  position: absolute;
+  top: 0;
+  display: block;
+  transition: 0.2s;
+  font-size: 1rem;
+  color: #9b9b9b;
+}
+
+.form__field:focus {
+  padding-bottom: 6px;
+  font-weight: 700;
+  border-width: 3px;
+  border-image: linear-gradient(to right, #11998e, #38ef7d);
+  border-image-slice: 1;
+}
+.form__field:focus ~ .form__label {
+  position: absolute;
+  top: 0;
+  display: block;
+  transition: 0.2s;
+  font-size: 1rem;
+  color: #11998e;
+  font-weight: 700;
+}
+
+/* reset input */
+.form__field:required, .form__field:invalid {
+  box-shadow: none;
+}
+
+
+/* demo */
+.message_box {
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  padding: auto;
+  flex-direction: column-reverse;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 1.5rem;
+  background-image: url("back.jpg");
+  background-size: 100% 100%;
+}
+body{
+  margin:0;
+}
+
+.girlfriend{
+  align-self: center;
+  animation: jumping 1s infinite alternate;
+
+}
+
+
+.ask_box{
+/*  border: black 10px solid;*/
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  color: cadetblue;
+}
+
+
+
+#ask_text{
+  display: flex;
+}
+
+
+
+/* 打字特效 */
+#ask_text{
+  position: relative;
+}
+
+#ask_text::before,
+#ask_text::after{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+/* 1s表示速度 step中要看回應的字串有幾個字(使用javascript) */
+#ask_text::before{
+  background: black;
+  animation: 
+    typewriter 1s steps(7) forwards;
+
+}
+
+@keyframes typewriter{
+  to{ 
+    left:100%;
+  }
+}
+ 
+.response_box{
+  height: 80px;
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top : -50px;
+}
+
+#response_text{
+  color: hotpink;
+}
+
+
+#myBtn{
+  display: none;
+}
+
+@keyframes jumping{
+  0%{ 
+    transform: translateY(15px);
+  }
+  70%{
+    transform: translateY(0px);
+  }
+  100%{
+    transform: translateY(0px);
+  }
+}
+
+img{
+  width: 200px;
+}
