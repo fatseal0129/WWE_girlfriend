@@ -9,29 +9,29 @@ from flask import Flask, redirect, request, render_template, jsonify
 app = Flask(__name__)
 
 #for watson
-authenticator_watson = IAMAuthenticator('QCLxh6rThZNpXNMnL3fHUX_dtruelzQw64edrS0ul57r')
+authenticator_watson = IAMAuthenticator('****')
 assistant = AssistantV2(
     version='2021-11-27',
     authenticator=authenticator_watson
 )
-assistant.set_service_url('https://api.us-south.assistant.watson.cloud.ibm.com/instances/021d4c98-d8ee-4bb9-a118-bb27c74ad3aa')
+assistant.set_service_url('****')
 
 #for NLU的Authenticator
-authenticator_NLU = IAMAuthenticator('a08zu4Rj1LwgTr6QIux_M5pz3fMCvhyQCuSUkiZvBvLr')
+authenticator_NLU = IAMAuthenticator('***')
 natural_language_understanding = NaturalLanguageUnderstandingV1(
     version='2022-04-07',
     authenticator=authenticator_NLU
 )
-natural_language_understanding.set_service_url('https://api.us-south.natural-language-understanding.watson.cloud.ibm.com/instances/c80740d9-2c7e-4549-8384-fd77bfabc985')
+natural_language_understanding.set_service_url('***')
         
 #for translate
-authenticator_translate = IAMAuthenticator('7dy5K0vohQLnWcNEE32TWTD_zmJ_M1jbB25THtKqy3Lx')
+authenticator_translate = IAMAuthenticator('***')
 language_translator = LanguageTranslatorV3(
     version='2018-05-01',
     authenticator=authenticator_translate
 )        
 
-language_translator.set_service_url('https://api.au-syd.language-translator.watson.cloud.ibm.com/instances/2a3b0652-010d-4379-aafa-c48c02eb63c1')
+language_translator.set_service_url('***')
 
 session = dict()
 All_Food = ['牛肉麵','拉麵','泡麵','烏龍麵','涼麵','意麵','義大利麵','蕃茄麵','鍋燒意麵','炒麵','丼飯'
@@ -47,7 +47,7 @@ wantfood = ['1']
 
 def CreateSession():
     session = assistant.create_session(
-    assistant_id='67ec82fc-1dcc-4821-8034-103862368d56'
+    assistant_id='***'
         ).get_result()
     return session
 
@@ -59,7 +59,7 @@ def welcome():
     wantfood.append(random.choice(All_Food))
     print("Now she wants is : " + wantfood[0])
     response = assistant.message(
-        assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+        assistant_id='***',
         session_id = session.get('session_id'),
     input={
         'message_type': 'text',
@@ -80,7 +80,7 @@ def responsela():
     session = CreateSession()
     print(input)
     response = assistant.message(
-        assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+        assistant_id='6***',
         session_id = session.get('session_id'),
     input={
         'message_type': 'text',
@@ -117,7 +117,7 @@ def responsela():
             if(b_tone != "impolite" and b_tone != "polite"):
                 a_tone = "impolite"
             response = assistant.message(
-            assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+            assistant_id='***',
             session_id = session.get('session_id'),
             input={
                 'message_type': 'text',
@@ -139,7 +139,7 @@ def responsela():
             return result[0].get('text')
         except:
             response = assistant.message(
-            assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+            assistant_id='***',
             session_id = session.get('session_id'),
             input={
                 'message_type': 'text',
@@ -162,7 +162,7 @@ def responsela():
     else:
         if(wantfood[0] in input):
             response = assistant.message(
-            assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+            assistant_id='***',
             session_id = session.get('session_id'),
             input={
             'message_type': 'text',
@@ -184,7 +184,7 @@ def responsela():
             return result[0].get('text')
         else:
             response = assistant.message(
-            assistant_id='67ec82fc-1dcc-4821-8034-103862368d56',
+            assistant_id='***',
             session_id = session.get('session_id'),
             input={
             'message_type': 'text',
