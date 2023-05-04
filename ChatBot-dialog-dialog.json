@@ -1,0 +1,5257 @@
+{
+  "intents": [
+    {
+      "intent": "句點",
+      "examples": [
+        {
+          "text": "不知道"
+        },
+        {
+          "text": "喔"
+        },
+        {
+          "text": "恩"
+        },
+        {
+          "text": "我也不知道"
+        },
+        {
+          "text": "我想想"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "吵架",
+      "examples": [
+        {
+          "text": "不想理你了"
+        },
+        {
+          "text": "乾我屁事"
+        },
+        {
+          "text": "你很煩誒"
+        },
+        {
+          "text": "你有問題喔"
+        },
+        {
+          "text": "你自己去吃"
+        },
+        {
+          "text": "公主病喔"
+        },
+        {
+          "text": "到底有什麼毛病"
+        },
+        {
+          "text": "問題很多誒"
+        },
+        {
+          "text": "就你毛最多"
+        },
+        {
+          "text": "屁事"
+        },
+        {
+          "text": "幹"
+        },
+        {
+          "text": "我真的受夠了"
+        },
+        {
+          "text": "操妳媽"
+        },
+        {
+          "text": "煩死了"
+        },
+        {
+          "text": "白痴"
+        },
+        {
+          "text": "神經病"
+        },
+        {
+          "text": "誰管你"
+        },
+        {
+          "text": "馬的"
+        },
+        {
+          "text": "馬的女人"
+        },
+        {
+          "text": "馬的男人"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "問吃",
+      "examples": [
+        {
+          "text": "不然我們去吃"
+        },
+        {
+          "text": "不然要吃什麼"
+        },
+        {
+          "text": "你要不要吃"
+        },
+        {
+          "text": "你跟我說你想要吃什麼"
+        },
+        {
+          "text": "吃什麼"
+        },
+        {
+          "text": "想吃什麼"
+        },
+        {
+          "text": "我們去吃這個"
+        },
+        {
+          "text": "我看你"
+        },
+        {
+          "text": "我知道有個店很好吃"
+        },
+        {
+          "text": "我覺得這間店不錯"
+        },
+        {
+          "text": "猜猜我想要吃什麼"
+        },
+        {
+          "text": "要不要去吃"
+        },
+        {
+          "text": "要不要吃"
+        },
+        {
+          "text": "要吃什麼"
+        },
+        {
+          "text": "還是你想要吃"
+        },
+        {
+          "text": "還是我們去吃"
+        },
+        {
+          "text": "那你想吃什麼"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "壞的感覺",
+      "examples": [
+        {
+          "text": "不想"
+        },
+        {
+          "text": "不要"
+        },
+        {
+          "text": "爛"
+        },
+        {
+          "text": "矮"
+        },
+        {
+          "text": "胖"
+        },
+        {
+          "text": "討厭"
+        },
+        {
+          "text": "還好"
+        },
+        {
+          "text": "醜"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "好的感覺",
+      "examples": [
+        {
+          "text": "不錯"
+        },
+        {
+          "text": "可以"
+        },
+        {
+          "text": "好"
+        },
+        {
+          "text": "漂亮"
+        },
+        {
+          "text": "瘦"
+        },
+        {
+          "text": "美"
+        },
+        {
+          "text": "高"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "引戰",
+      "examples": [
+        {
+          "text": "三小"
+        },
+        {
+          "text": "不然你想怎樣"
+        },
+        {
+          "text": "你又來了"
+        },
+        {
+          "text": "你又怎麼了"
+        },
+        {
+          "text": "你很奇怪誒"
+        },
+        {
+          "text": "到底怎麼了"
+        },
+        {
+          "text": "到底想要幹嘛"
+        },
+        {
+          "text": "又怎樣了"
+        },
+        {
+          "text": "又要幹嘛"
+        },
+        {
+          "text": "吃屎"
+        },
+        {
+          "text": "就不想跟你講話"
+        },
+        {
+          "text": "我又怎樣了"
+        },
+        {
+          "text": "我沒說什麼啊"
+        },
+        {
+          "text": "看你不爽"
+        },
+        {
+          "text": "都不要啊"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "慰問",
+      "examples": [
+        {
+          "text": "今天過得如何"
+        },
+        {
+          "text": "你好"
+        },
+        {
+          "text": "你怎麼"
+        },
+        {
+          "text": "你怎麼了"
+        },
+        {
+          "text": "你的心情如何"
+        },
+        {
+          "text": "你還好嗎"
+        },
+        {
+          "text": "來聊天"
+        },
+        {
+          "text": "嗨"
+        },
+        {
+          "text": "嗨嗨"
+        },
+        {
+          "text": "能告訴我你怎麼了嗎"
+        },
+        {
+          "text": "過得還好嗎"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "結束",
+      "examples": [
+        {
+          "text": "問一下"
+        },
+        {
+          "text": "沒事"
+        },
+        {
+          "text": "沒事問問而已"
+        },
+        {
+          "text": "沒事就好"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "道歉",
+      "examples": [
+        {
+          "text": "對不起"
+        },
+        {
+          "text": "我不是故意得"
+        },
+        {
+          "text": "我不是故意的"
+        },
+        {
+          "text": "抱歉"
+        },
+        {
+          "text": "拍謝"
+        },
+        {
+          "text": "道歉"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "answer",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "answer",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "not_answer",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "not_answer",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "now_emotion_angry",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emotion_angry",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "now_emotion_happy",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emotion_happy",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "now_emotion_normal",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emotion_normal",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "now_emotion_sad",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "emotion_sad",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "start",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "start",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_excited",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "excited",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_frustrated",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "frustrated",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_impolite",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "impolite",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_polite",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "polite",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_sad",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "sad",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "tone_sympathetic",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "sympathetic",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "便利商店",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "7-11",
+          "synonyms": [
+            "seven"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "ok mart",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "便利商店",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "全家",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "萊爾富",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "超商",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "健康餐",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "健康餐",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "其他",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "其他",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "地點",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "中山",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "信義",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "公館",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "古亭",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "台北車站",
+          "synonyms": [
+            "北車"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "大同",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "大安",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "東區",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "松山",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "壽司",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "壽司",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "迴轉壽司",
+          "synonyms": [
+            "壽司郎",
+            "爭鮮",
+            "藏壽司"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "夜市",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "公館夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "南機場夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "士林夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "寧夏夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "師大夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "景美夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "楠雅夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "樂華夜市",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "饒河夜市",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "學餐",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "一品快餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "一餐自助餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "三餐自助餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "丼飯屋",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "京都",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "八方雲集",
+          "synonyms": [
+            "八方"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "學餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "小熊廚房",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "教餐",
+          "synonyms": [
+            "教餐滷味",
+            "教餐牛肉麵"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "溫州大餛鈍",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "甘味廚房",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "福客亭",
+          "synonyms": [
+            "一餐早餐"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "突厥",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "藝素佳",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "豪享來",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "雞同鴨講",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "高麗元",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "定食",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "日式定食",
+          "synonyms": [
+            "定食"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "宵夜",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "宵夜",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "深夜未歸",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "小物",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "煎餃",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "章魚燒",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "臭豆腐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "豬血糕",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "後餐",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "後餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "後餐臭豆腐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "後餐鹹酥雞",
+          "synonyms": [
+            "後餐鹽酥雞"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "披薩",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "pizza",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "必勝客",
+          "synonyms": [
+            "pizza hut"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "拿波里",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "達美樂",
+          "synonyms": [
+            "412522"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "早餐",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "早午餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "早安城之美",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "早餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "美而美",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "麥味登",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "湯包",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "湯包",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "鼎泰豐",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "火鍋",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "壽喜燒",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "涮涮鍋",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "火鍋",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "鴛鴦鍋",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "麻辣鍋",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "燒烤",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "烤肉",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "燒烤",
+          "synonyms": [
+            "炭烤"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "牛排",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "牛排",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "速食",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "21世紀風味館",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "subway",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "摩斯漢堡",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "漢堡王",
+          "synonyms": [
+            "burger king"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "炸雞",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "肯德基",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "麥當勞",
+          "synonyms": [
+            "麥當當"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "鐵板燒",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "鐵板燒",
+          "synonyms": [
+            "大埔"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "關東煮",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "關東煮",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "韓式",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "兩餐",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "韓式料理",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "飯",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "丼飯",
+          "synonyms": [
+            "sukiya",
+            "丼",
+            "牛丼",
+            "親子丼",
+            "豚太郎"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "咖哩飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "控肉飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "海南雞飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "滷肉飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "炒飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "燒肉飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "粥",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "肉燥飯",
+          "synonyms": [
+            "肉燥飯"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "蛋包飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "雞肉飯",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "飯包",
+          "synonyms": [
+            "便當"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "飯糰",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "魯肉飯",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "麵",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "意麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "拉麵",
+          "synonyms": [
+            "一蘭",
+            "墨洋",
+            "真劍",
+            "花月嵐",
+            "隱家",
+            "鷹流"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "泡麵",
+          "synonyms": [
+            "來一客",
+            "排骨雞麵",
+            "滿漢大餐",
+            "炒泡麵",
+            "維力",
+            "花雕雞麵",
+            "阿Q"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "涼麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "炒麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "烏龍麵",
+          "synonyms": [
+            "丸龜",
+            "米澤",
+            "製麵"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "牛肉麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "義大利麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "蕃茄麵",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "鍋燒意麵",
+          "synonyms": []
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "你想吃什麼呢？"
+              },
+              {
+                "text": "不知道誒"
+              },
+              {
+                "text": "都可以"
+              },
+              {
+                "text": "感覺都不錯"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1668642914231",
+      "conditions": "#問吃",
+      "dialog_node": "node_10_1668642988185",
+      "previous_sibling": "node_9_1668642981268"
+    },
+    {
+      "type": "folder",
+      "title": "如果吵架又語氣不好",
+      "parent": "node_3_1668642768775",
+      "conditions": "@tone_impolite:impolite",
+      "dialog_node": "node_10_1668646173994"
+    },
+    {
+      "type": "standard",
+      "title": "gameover(flask)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "都不要吃啊！"
+              },
+              {
+                "text": "我不想跟你講話了"
+              },
+              {
+                "text": "算了 我自己想"
+              },
+              {
+                "text": "不理你了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1668646173994",
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_10_1668646263821"
+    },
+    {
+      "type": "folder",
+      "title": "如果吵架但語氣好",
+      "parent": "node_3_1668642768775",
+      "conditions": "@tone_polite:polite",
+      "dialog_node": "node_10_1668646495730",
+      "previous_sibling": "node_10_1668646173994"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不想吃健康餐"
+              },
+              {
+                "text": "不要"
+              },
+              {
+                "text": "我不太想吃這個..."
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不想要"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@健康餐:健康餐",
+      "dialog_node": "node_10_1668647000968"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不想"
+              },
+              {
+                "text": "還好誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@其他",
+      "dialog_node": "node_10_1668649249783",
+      "previous_sibling": "node_8_1668648298446"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不好"
+              },
+              {
+                "text": "你剛剛才罵我誒"
+              },
+              {
+                "text": "你覺得呢？"
+              },
+              {
+                "text": "不爽"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1668646495730",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#慰問",
+      "dialog_node": "node_10_1668650881877",
+      "previous_sibling": "node_4_1668646555826"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "喔..."
+              },
+              {
+                "text": "恩..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1668646495730",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#道歉",
+      "dialog_node": "node_10_1668651363809",
+      "previous_sibling": "node_5_1668651083097"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "那要吃什麼？"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#好的感覺",
+      "dialog_node": "node_10_1668654555184",
+      "previous_sibling": "node_4_1668653831997"
+    },
+    {
+      "type": "standard",
+      "title": "copy 1",
+      "output": {},
+      "parent": "node_53_1668653781662",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_107_1668656369318",
+      "previous_sibling": "node_54_1668653781667"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不想吃火鍋"
+              },
+              {
+                "text": "不要"
+              },
+              {
+                "text": "幾天就吃過了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@火鍋",
+      "dialog_node": "node_1_1668649126761",
+      "previous_sibling": "node_3_1668649158779"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "算了 我自己想"
+              },
+              {
+                "text": "不理你了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_4_1668646555826",
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_1_1668651796482"
+    },
+    {
+      "type": "folder",
+      "title": "正確答案 - copy 1",
+      "parent": "node_4_1668646555826",
+      "conditions": "@Answer:answer",
+      "dialog_node": "node_1_1668653118302",
+      "previous_sibling": "node_4_1668651798529"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "還不錯呀"
+              },
+              {
+                "text": "還行呀"
+              },
+              {
+                "text": "還不錯"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1668642914231",
+      "conditions": "#慰問",
+      "dialog_node": "node_2_1668642974259"
+    },
+    {
+      "type": "standard",
+      "parent": "node_8_1668652326929",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668650881877"
+      },
+      "conditions": "#慰問",
+      "dialog_node": "node_2_1668652615610",
+      "previous_sibling": "node_4_1668652618356"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1668653118302",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668647158595"
+      },
+      "dialog_node": "node_2_1668653118305"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "幹嘛突然罵我QQ"
+              },
+              {
+                "text": "幹嘛罵我..."
+              },
+              {
+                "text": "你很兇誒..."
+              },
+              {
+                "text": "你態度很差誒..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668642705572",
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_3_1668642768775"
+    },
+    {
+      "type": "folder",
+      "parent": "node_6_1668642224828",
+      "conditions": "@tone_polite:polite",
+      "dialog_node": "node_3_1668642914231",
+      "previous_sibling": "node_9_1668642705572"
+    },
+    {
+      "type": "folder",
+      "title": "錯誤答案",
+      "parent": "node_9_1668642761576",
+      "conditions": "@not_answer:not_answer",
+      "dialog_node": "node_3_1668646687074",
+      "previous_sibling": "node_7_1668646626741"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646626741",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668647158595"
+      },
+      "dialog_node": "node_3_1668647060242"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "我不太想吃壽司"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "不太想"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@壽司",
+      "dialog_node": "node_3_1668647956355",
+      "previous_sibling": "node_6_1668647899156"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不太想吃學餐"
+              },
+              {
+                "text": "我想出去吃"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "吃膩了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@學餐",
+      "dialog_node": "node_3_1668648053046",
+      "previous_sibling": "node_4_1668647997849"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "不要關東煮"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@關東煮",
+      "dialog_node": "node_3_1668648568727",
+      "previous_sibling": "node_5_1668648673206"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想吃湯包"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不想"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@湯包",
+      "dialog_node": "node_3_1668649158779",
+      "previous_sibling": "node_3_1668649204270"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不要吃早餐"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@早餐",
+      "dialog_node": "node_3_1668649204270",
+      "previous_sibling": "node_10_1668649249783"
+    },
+    {
+      "type": "folder",
+      "title": "錯誤答案 - copy 1",
+      "parent": "node_4_1668646555826",
+      "conditions": "@not_answer:not_answer",
+      "dialog_node": "node_3_1668653363777",
+      "previous_sibling": "node_1_1668653118302"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "..."
+              },
+              {
+                "text": "不知道..."
+              },
+              {
+                "text": "沒想法"
+              },
+              {
+                "text": "隨便"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1668646495730",
+      "conditions": "#問吃",
+      "dialog_node": "node_4_1668646555826",
+      "previous_sibling": "node_10_1668651363809"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "不要"
+              },
+              {
+                "text": "好遠喔..."
+              },
+              {
+                "text": "好懶的去喔..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@夜市",
+      "dialog_node": "node_4_1668647997849",
+      "previous_sibling": "node_3_1668647956355"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "沒事"
+              },
+              {
+                "text": "還好"
+              },
+              {
+                "text": "恩..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668646555826",
+      "conditions": "#慰問",
+      "dialog_node": "node_4_1668651798529",
+      "previous_sibling": "node_1_1668651796482"
+    },
+    {
+      "type": "standard",
+      "title": "gameover",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不想跟你講話了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1668652326929",
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_4_1668652618356"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "沒事..."
+              },
+              {
+                "text": "恩..."
+              },
+              {
+                "text": "你要請我吃飯我才會原諒你"
+              },
+              {
+                "text": "你毛很多誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#道歉",
+      "dialog_node": "node_4_1668652909520",
+      "previous_sibling": "node_10_1668654555184"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_3_1668653363777",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_4_1668653363780"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1668650881877",
+      "dialog_node": "node_4_1668653651738"
+    },
+    {
+      "type": "standard",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668642768775"
+      },
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_4_1668653831997",
+      "previous_sibling": "node_5_1668653693847"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "快點！我好餓"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#句點 || #結束",
+      "dialog_node": "node_4_1668653985805",
+      "previous_sibling": "node_55_1668653783731"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "怎麼了？"
+              },
+              {
+                "text": "恩？"
+              },
+              {
+                "text": "幹嘛？"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668642705572",
+      "conditions": "#慰問",
+      "dialog_node": "node_5_1668642535135",
+      "previous_sibling": "node_9_1668642761576"
+    },
+    {
+      "type": "folder",
+      "title": "正確答案區",
+      "conditions": "@Answer:answer",
+      "dialog_node": "node_5_1668647129858",
+      "previous_sibling": "node_4_1668652909520"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "好晚了不想出門"
+              },
+              {
+                "text": "好遠喔"
+              },
+              {
+                "text": "會變胖"
+              },
+              {
+                "text": "我不太想吃宵夜"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "我不要"
+              },
+              {
+                "text": "還好誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@宵夜",
+      "dialog_node": "node_5_1668648191267",
+      "previous_sibling": "node_7_1668648255413"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "我不要"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@鐵板燒",
+      "dialog_node": "node_5_1668648673206",
+      "previous_sibling": "node_8_1668648714832"
+    },
+    {
+      "type": "standard",
+      "title": "gameover(flask)",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "都不要吃啊！"
+              },
+              {
+                "text": "我不想跟你講話了"
+              },
+              {
+                "text": "算了 我自己想"
+              },
+              {
+                "text": "不理你了"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_10_1668646495730",
+      "conditions": "#引戰 || #吵架",
+      "dialog_node": "node_5_1668651083097"
+    },
+    {
+      "type": "standard",
+      "parent": "node_4_1668651798529",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668651083097"
+      },
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_5_1668653427558",
+      "previous_sibling": "node_8_1668653433835"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "沒想法"
+              },
+              {
+                "text": "我都還好"
+              },
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不想"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_5_1668653693847",
+      "previous_sibling": "node_4_1668653985805"
+    },
+    {
+      "type": "folder",
+      "title": "正確答案 - copy 1",
+      "conditions": "@answer:answer && #問吃",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_53_1668653781662",
+      "previous_sibling": "歡迎"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_53_1668653781662",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668647158595"
+      },
+      "dialog_node": "node_54_1668653781667"
+    },
+    {
+      "type": "folder",
+      "title": "錯誤答案 - copy 1",
+      "conditions": "@not_answer:not_answer && #問吃",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_55_1668653783731",
+      "previous_sibling": "node_53_1668653781662"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_55_1668653783731",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_56_1668653783736"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "你要吃什麼"
+              },
+              {
+                "text": "肚子有點餓了～"
+              },
+              {
+                "text": "你想吃飯嗎？"
+              },
+              {
+                "text": "要吃飯嗎"
+              },
+              {
+                "text": "我要吃飯"
+              },
+              {
+                "text": "肚子好餓"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "@start",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1668642224828"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不想吃超商"
+              },
+              {
+                "text": "我不想吃便利商店"
+              },
+              {
+                "text": "我不要"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@便利商店",
+      "dialog_node": "node_6_1668647749748",
+      "previous_sibling": "node_10_1668647000968"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "那裡有什麼好吃的"
+              },
+              {
+                "text": "好懶喔..."
+              },
+              {
+                "text": "不想跑那麼遠誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@地點",
+      "dialog_node": "node_6_1668647899156",
+      "previous_sibling": "node_6_1668647749748"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1668651363809",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668646555826"
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_6_1668652510476",
+      "previous_sibling": "node_9_1668652324923"
+    },
+    {
+      "type": "folder",
+      "title": "正確答案",
+      "parent": "node_9_1668642761576",
+      "conditions": "@Answer:answer",
+      "dialog_node": "node_7_1668646626741"
+    },
+    {
+      "type": "standard",
+      "parent": "node_3_1668646687074",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_7_1668646972850"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "吃不飽"
+              },
+              {
+                "text": "我不要"
+              },
+              {
+                "text": "我不太想吃這個"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@小物",
+      "dialog_node": "node_7_1668648255413",
+      "previous_sibling": "node_9_1668648341752"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不太想吃牛排"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "不要"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@牛排",
+      "dialog_node": "node_7_1668648782482",
+      "previous_sibling": "node_7_1668648827177"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃燒烤"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@燒烤",
+      "dialog_node": "node_7_1668648827177",
+      "previous_sibling": "node_1_1668649126761"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1668651363809",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668651363809"
+      },
+      "conditions": "#道歉",
+      "dialog_node": "node_7_1668652321986",
+      "previous_sibling": "node_6_1668652510476"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1668652326929",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668646555826"
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_7_1668652580750",
+      "previous_sibling": "node_2_1668652615610"
+    },
+    {
+      "type": "folder",
+      "title": "正確答案 - copy 1",
+      "parent": "node_10_1668642988185",
+      "conditions": "@Answer:answer",
+      "dialog_node": "node_80_1668654108574"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_80_1668654108574",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668647158595"
+      },
+      "dialog_node": "node_81_1668654108577"
+    },
+    {
+      "type": "standard",
+      "title": "結束",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "感覺還行 那走吧"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_5_1668647129858",
+      "dialog_node": "node_8_1668647158595"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃定食"
+              },
+              {
+                "text": "我不要"
+              },
+              {
+                "text": "不太想"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@定食",
+      "dialog_node": "node_8_1668648142632",
+      "previous_sibling": "node_3_1668648053046"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不想吃後餐"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@後餐",
+      "dialog_node": "node_8_1668648298446",
+      "previous_sibling": "node_8_1668648142632"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "前幾天才吃"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "不太想吃飯"
+              },
+              {
+                "text": "恩....還好"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@飯",
+      "dialog_node": "node_8_1668648478538",
+      "previous_sibling": "node_8_1668648528549"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不太想吃韓式料理"
+              },
+              {
+                "text": "還好"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不要"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@韓式",
+      "dialog_node": "node_8_1668648528549",
+      "previous_sibling": "node_3_1668648568727"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不想吃速食"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "我不要"
+              },
+              {
+                "text": "恩...還好"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@速食",
+      "dialog_node": "node_8_1668648714832",
+      "previous_sibling": "node_7_1668648782482"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "你幹嘛又罵我.."
+              },
+              {
+                "text": "你態度很差誒"
+              },
+              {
+                "text": "幹嘛..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1668651363809",
+      "conditions": "#吵架 || #引戰",
+      "dialog_node": "node_8_1668652326929"
+    },
+    {
+      "type": "standard",
+      "parent": "node_4_1668651798529",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668646555826"
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_8_1668653433835"
+    },
+    {
+      "type": "folder",
+      "title": "錯誤答案 - copy 1",
+      "parent": "node_10_1668642988185",
+      "conditions": "@not_answer:not_answer",
+      "dialog_node": "node_82_1668654110725",
+      "previous_sibling": "node_80_1668654108574"
+    },
+    {
+      "type": "standard",
+      "output": {},
+      "parent": "node_82_1668654110725",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#問吃",
+      "dialog_node": "node_83_1668654110731"
+    },
+    {
+      "type": "folder",
+      "parent": "node_6_1668642224828",
+      "conditions": "@tone_impolite:impolite",
+      "dialog_node": "node_9_1668642705572"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "都可以"
+              },
+              {
+                "text": "都行"
+              },
+              {
+                "text": "都好"
+              },
+              {
+                "text": "你覺得呢"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668642705572",
+      "conditions": "#問吃",
+      "dialog_node": "node_9_1668642761576",
+      "previous_sibling": "node_3_1668642768775"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_3_1668642914231",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668642768775"
+      },
+      "conditions": "#引戰 || #吵架",
+      "dialog_node": "node_9_1668642981268",
+      "previous_sibling": "node_2_1668642974259"
+    },
+    {
+      "type": "folder",
+      "title": "錯誤答案區",
+      "conditions": "@not_answer:not_answer",
+      "dialog_node": "node_9_1668646959432",
+      "previous_sibling": "node_5_1668647129858"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "不要"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "我不太想吃披薩"
+              },
+              {
+                "text": "還好誒"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@披薩",
+      "dialog_node": "node_9_1668648341752",
+      "previous_sibling": "node_9_1668648420699"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "我不太想吃麵"
+              },
+              {
+                "text": "還好誒"
+              },
+              {
+                "text": "不太想"
+              },
+              {
+                "text": "前幾天才吃"
+              },
+              {
+                "text": "不要"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_9_1668646959432",
+      "conditions": "@麵",
+      "dialog_node": "node_9_1668648420699",
+      "previous_sibling": "node_8_1668648478538"
+    },
+    {
+      "type": "standard",
+      "parent": "node_10_1668651363809",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668650881877"
+      },
+      "conditions": "#慰問",
+      "dialog_node": "node_9_1668652324923",
+      "previous_sibling": "node_8_1668652326929"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648568727"
+      },
+      "conditions": "@關東煮",
+      "dialog_node": "response_100_1668654110731",
+      "previous_sibling": "response_99_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648528549"
+      },
+      "conditions": "@韓式",
+      "dialog_node": "response_101_1668654110731",
+      "previous_sibling": "response_100_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668649249783"
+      },
+      "conditions": "@其他",
+      "dialog_node": "response_10_1668649516673",
+      "previous_sibling": "response_8_1668649515177"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647899156"
+      },
+      "conditions": "@地點",
+      "dialog_node": "response_10_1668649517727",
+      "previous_sibling": "response_10_1668649516673"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668647997849"
+      },
+      "conditions": "@夜市",
+      "dialog_node": "response_10_1668653363780",
+      "previous_sibling": "response_9_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648478538"
+      },
+      "conditions": "@飯",
+      "dialog_node": "response_102_1668654110731",
+      "previous_sibling": "response_101_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648420699"
+      },
+      "conditions": "@麵",
+      "dialog_node": "response_103_1668654110731",
+      "previous_sibling": "response_102_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648341752"
+      },
+      "conditions": "@披薩",
+      "dialog_node": "response_104_1668654110731",
+      "previous_sibling": "response_103_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648255413"
+      },
+      "conditions": "@小物",
+      "dialog_node": "response_105_1668654110731",
+      "previous_sibling": "response_104_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648191267"
+      },
+      "conditions": "@宵夜",
+      "dialog_node": "response_106_1668654110731",
+      "previous_sibling": "response_105_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647749748"
+      },
+      "conditions": "@便利商店",
+      "dialog_node": "response_109_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@其他",
+      "dialog_node": "response_110_1668656369325",
+      "previous_sibling": "response_109_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647899156"
+      },
+      "conditions": "@地點",
+      "dialog_node": "response_111_1668656369325",
+      "previous_sibling": "response_110_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648053046"
+      },
+      "conditions": "@學餐",
+      "dialog_node": "response_11_1668653363780",
+      "previous_sibling": "response_10_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@壽司",
+      "dialog_node": "response_112_1668656369325",
+      "previous_sibling": "response_111_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@夜市",
+      "dialog_node": "response_113_1668656369325",
+      "previous_sibling": "response_112_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@學餐",
+      "dialog_node": "response_114_1668656369325",
+      "previous_sibling": "response_113_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@定食",
+      "dialog_node": "response_115_1668656369325",
+      "previous_sibling": "response_114_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@後餐",
+      "dialog_node": "response_116_1668656369325",
+      "previous_sibling": "response_115_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648782482"
+      },
+      "conditions": "@牛排",
+      "dialog_node": "response_1_1668649527575",
+      "previous_sibling": "response_6_1668649525896"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648420699"
+      },
+      "conditions": "@麵",
+      "dialog_node": "response_1_1668649533914",
+      "previous_sibling": "response_9_1668649532902"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648341752"
+      },
+      "conditions": "@披薩",
+      "dialog_node": "response_1_1668649535007",
+      "previous_sibling": "response_1_1668649533914"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@早餐",
+      "dialog_node": "response_117_1668656369325",
+      "previous_sibling": "response_116_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@湯包",
+      "dialog_node": "response_118_1668656369325",
+      "previous_sibling": "response_117_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@火鍋",
+      "dialog_node": "response_119_1668656369325",
+      "previous_sibling": "response_118_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@燒烤",
+      "dialog_node": "response_120_1668656369325",
+      "previous_sibling": "response_119_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@牛排",
+      "dialog_node": "response_121_1668656369325",
+      "previous_sibling": "response_120_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648142632"
+      },
+      "conditions": "@定食",
+      "dialog_node": "response_12_1668653363780",
+      "previous_sibling": "response_11_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@速食",
+      "dialog_node": "response_122_1668656369325",
+      "previous_sibling": "response_121_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@鐵板燒",
+      "dialog_node": "response_123_1668656369325",
+      "previous_sibling": "response_122_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@關東煮",
+      "dialog_node": "response_124_1668656369325",
+      "previous_sibling": "response_123_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@韓式",
+      "dialog_node": "response_125_1668656369325",
+      "previous_sibling": "response_124_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@飯",
+      "dialog_node": "response_126_1668656369325",
+      "previous_sibling": "response_125_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@麵",
+      "dialog_node": "response_127_1668656369325",
+      "previous_sibling": "response_126_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@披薩",
+      "dialog_node": "response_128_1668656369325",
+      "previous_sibling": "response_127_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@小物",
+      "dialog_node": "response_129_1668656369325",
+      "previous_sibling": "response_128_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_107_1668656369318",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_54_1668653781667"
+      },
+      "conditions": "@宵夜",
+      "dialog_node": "response_130_1668656369325",
+      "previous_sibling": "response_129_1668656369325"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648298446"
+      },
+      "conditions": "@後餐",
+      "dialog_node": "response_13_1668653363780",
+      "previous_sibling": "response_12_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649204270"
+      },
+      "conditions": "@早餐",
+      "dialog_node": "response_14_1668653363780",
+      "previous_sibling": "response_13_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649158779"
+      },
+      "conditions": "@湯包",
+      "dialog_node": "response_15_1668653363780",
+      "previous_sibling": "response_14_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1668649126761"
+      },
+      "conditions": "@火鍋",
+      "dialog_node": "response_16_1668653363780",
+      "previous_sibling": "response_15_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648827177"
+      },
+      "conditions": "@燒烤",
+      "dialog_node": "response_17_1668653363780",
+      "previous_sibling": "response_16_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648782482"
+      },
+      "conditions": "@牛排",
+      "dialog_node": "response_18_1668653363780",
+      "previous_sibling": "response_17_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648714832"
+      },
+      "conditions": "@速食",
+      "dialog_node": "response_19_1668653363780",
+      "previous_sibling": "response_18_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648673206"
+      },
+      "conditions": "@鐵板燒",
+      "dialog_node": "response_20_1668653363780",
+      "previous_sibling": "response_19_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648568727"
+      },
+      "conditions": "@關東煮",
+      "dialog_node": "response_21_1668653363780",
+      "previous_sibling": "response_20_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648053046"
+      },
+      "conditions": "@學餐",
+      "dialog_node": "response_2_1668649520474",
+      "previous_sibling": "response_7_1668649519635"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1668649126761"
+      },
+      "conditions": "@火鍋",
+      "dialog_node": "response_2_1668649524989",
+      "previous_sibling": "response_9_1668649524126"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648528549"
+      },
+      "conditions": "@韓式",
+      "dialog_node": "response_22_1668653363780",
+      "previous_sibling": "response_21_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648478538"
+      },
+      "conditions": "@飯",
+      "dialog_node": "response_23_1668653363780",
+      "previous_sibling": "response_22_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648420699"
+      },
+      "conditions": "@麵",
+      "dialog_node": "response_24_1668653363780",
+      "previous_sibling": "response_23_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648341752"
+      },
+      "conditions": "@披薩",
+      "dialog_node": "response_25_1668653363780",
+      "previous_sibling": "response_24_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648255413"
+      },
+      "conditions": "@小物",
+      "dialog_node": "response_26_1668653363780",
+      "previous_sibling": "response_25_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648191267"
+      },
+      "conditions": "@宵夜",
+      "dialog_node": "response_27_1668653363780",
+      "previous_sibling": "response_26_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648142632"
+      },
+      "conditions": "@定食",
+      "dialog_node": "response_3_1668649521387",
+      "previous_sibling": "response_2_1668649520474"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648298446"
+      },
+      "conditions": "@後餐",
+      "dialog_node": "response_3_1668649522314",
+      "previous_sibling": "response_3_1668649521387"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668647956355"
+      },
+      "conditions": "@壽司",
+      "dialog_node": "response_4_1668649518745",
+      "previous_sibling": "response_10_1668649517727"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648568727"
+      },
+      "conditions": "@關東煮",
+      "dialog_node": "response_5_1668649530914",
+      "previous_sibling": "response_6_1668649529901"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648528549"
+      },
+      "conditions": "@韓式",
+      "dialog_node": "response_5_1668649531913",
+      "previous_sibling": "response_5_1668649530914"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668647000968"
+      },
+      "conditions": "@健康餐",
+      "dialog_node": "response_5_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668647000968"
+      },
+      "conditions": "@健康餐",
+      "dialog_node": "response_57_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647749748"
+      },
+      "conditions": "@便利商店",
+      "dialog_node": "response_58_1668653783736",
+      "previous_sibling": "response_57_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668649249783"
+      },
+      "conditions": "@其他",
+      "dialog_node": "response_59_1668653783736",
+      "previous_sibling": "response_58_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647899156"
+      },
+      "conditions": "@地點",
+      "dialog_node": "response_60_1668653783736",
+      "previous_sibling": "response_59_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668647956355"
+      },
+      "conditions": "@壽司",
+      "dialog_node": "response_61_1668653783736",
+      "previous_sibling": "response_60_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668647000968"
+      },
+      "conditions": "@健康餐",
+      "dialog_node": "response_6_1668649447908"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648827177"
+      },
+      "conditions": "@燒烤",
+      "dialog_node": "response_6_1668649525896",
+      "previous_sibling": "response_2_1668649524989"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648673206"
+      },
+      "conditions": "@鐵板燒",
+      "dialog_node": "response_6_1668649529901",
+      "previous_sibling": "response_8_1668649528755"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647749748"
+      },
+      "conditions": "@便利商店",
+      "dialog_node": "response_6_1668653363780",
+      "previous_sibling": "response_5_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668647997849"
+      },
+      "conditions": "@夜市",
+      "dialog_node": "response_62_1668653783736",
+      "previous_sibling": "response_61_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648053046"
+      },
+      "conditions": "@學餐",
+      "dialog_node": "response_63_1668653783736",
+      "previous_sibling": "response_62_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648142632"
+      },
+      "conditions": "@定食",
+      "dialog_node": "response_64_1668653783736",
+      "previous_sibling": "response_63_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648298446"
+      },
+      "conditions": "@後餐",
+      "dialog_node": "response_65_1668653783736",
+      "previous_sibling": "response_64_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649204270"
+      },
+      "conditions": "@早餐",
+      "dialog_node": "response_66_1668653783736",
+      "previous_sibling": "response_65_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649158779"
+      },
+      "conditions": "@湯包",
+      "dialog_node": "response_67_1668653783736",
+      "previous_sibling": "response_66_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1668649126761"
+      },
+      "conditions": "@火鍋",
+      "dialog_node": "response_68_1668653783736",
+      "previous_sibling": "response_67_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648827177"
+      },
+      "conditions": "@燒烤",
+      "dialog_node": "response_69_1668653783736",
+      "previous_sibling": "response_68_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648782482"
+      },
+      "conditions": "@牛排",
+      "dialog_node": "response_70_1668653783736",
+      "previous_sibling": "response_69_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648714832"
+      },
+      "conditions": "@速食",
+      "dialog_node": "response_71_1668653783736",
+      "previous_sibling": "response_70_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668647997849"
+      },
+      "conditions": "@夜市",
+      "dialog_node": "response_7_1668649519635",
+      "previous_sibling": "response_4_1668649518745"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648255413"
+      },
+      "conditions": "@小物",
+      "dialog_node": "response_7_1668649535973",
+      "previous_sibling": "response_1_1668649535007"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668649249783"
+      },
+      "conditions": "@其他",
+      "dialog_node": "response_7_1668653363780",
+      "previous_sibling": "response_6_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648673206"
+      },
+      "conditions": "@鐵板燒",
+      "dialog_node": "response_72_1668653783736",
+      "previous_sibling": "response_71_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648568727"
+      },
+      "conditions": "@關東煮",
+      "dialog_node": "response_73_1668653783736",
+      "previous_sibling": "response_72_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648528549"
+      },
+      "conditions": "@韓式",
+      "dialog_node": "response_74_1668653783736",
+      "previous_sibling": "response_73_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648478538"
+      },
+      "conditions": "@飯",
+      "dialog_node": "response_75_1668653783736",
+      "previous_sibling": "response_74_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648420699"
+      },
+      "conditions": "@麵",
+      "dialog_node": "response_76_1668653783736",
+      "previous_sibling": "response_75_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_9_1668648341752"
+      },
+      "conditions": "@披薩",
+      "dialog_node": "response_77_1668653783736",
+      "previous_sibling": "response_76_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648255413"
+      },
+      "conditions": "@小物",
+      "dialog_node": "response_78_1668653783736",
+      "previous_sibling": "response_77_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_56_1668653783736",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648191267"
+      },
+      "conditions": "@宵夜",
+      "dialog_node": "response_79_1668653783736",
+      "previous_sibling": "response_78_1668653783736"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647749748"
+      },
+      "conditions": "@便利商店",
+      "dialog_node": "response_8_1668649515177",
+      "previous_sibling": "response_6_1668649447908"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648714832"
+      },
+      "conditions": "@速食",
+      "dialog_node": "response_8_1668649528755",
+      "previous_sibling": "response_1_1668649527575"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648191267"
+      },
+      "conditions": "@宵夜",
+      "dialog_node": "response_8_1668649537029",
+      "previous_sibling": "response_7_1668649535973"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647899156"
+      },
+      "conditions": "@地點",
+      "dialog_node": "response_8_1668653363780",
+      "previous_sibling": "response_7_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {},
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668647000968"
+      },
+      "conditions": "@健康餐",
+      "dialog_node": "response_84_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647749748"
+      },
+      "conditions": "@便利商店",
+      "dialog_node": "response_85_1668654110731",
+      "previous_sibling": "response_84_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_10_1668649249783"
+      },
+      "conditions": "@其他",
+      "dialog_node": "response_86_1668654110731",
+      "previous_sibling": "response_85_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_6_1668647899156"
+      },
+      "conditions": "@地點",
+      "dialog_node": "response_87_1668654110731",
+      "previous_sibling": "response_86_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668647956355"
+      },
+      "conditions": "@壽司",
+      "dialog_node": "response_88_1668654110731",
+      "previous_sibling": "response_87_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_4_1668647997849"
+      },
+      "conditions": "@夜市",
+      "dialog_node": "response_89_1668654110731",
+      "previous_sibling": "response_88_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668648053046"
+      },
+      "conditions": "@學餐",
+      "dialog_node": "response_90_1668654110731",
+      "previous_sibling": "response_89_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648142632"
+      },
+      "conditions": "@定食",
+      "dialog_node": "response_91_1668654110731",
+      "previous_sibling": "response_90_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649204270"
+      },
+      "conditions": "@早餐",
+      "dialog_node": "response_9_1668649523261",
+      "previous_sibling": "response_3_1668649522314"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649158779"
+      },
+      "conditions": "@湯包",
+      "dialog_node": "response_9_1668649524126",
+      "previous_sibling": "response_9_1668649523261"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1668646972850",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648478538"
+      },
+      "conditions": "@飯",
+      "dialog_node": "response_9_1668649532902",
+      "previous_sibling": "response_5_1668649531913"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1668653363780",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668647956355"
+      },
+      "conditions": "@壽司",
+      "dialog_node": "response_9_1668653363780",
+      "previous_sibling": "response_8_1668653363780"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648298446"
+      },
+      "conditions": "@後餐",
+      "dialog_node": "response_92_1668654110731",
+      "previous_sibling": "response_91_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649204270"
+      },
+      "conditions": "@早餐",
+      "dialog_node": "response_93_1668654110731",
+      "previous_sibling": "response_92_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_3_1668649158779"
+      },
+      "conditions": "@湯包",
+      "dialog_node": "response_94_1668654110731",
+      "previous_sibling": "response_93_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1668649126761"
+      },
+      "conditions": "@火鍋",
+      "dialog_node": "response_95_1668654110731",
+      "previous_sibling": "response_94_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648827177"
+      },
+      "conditions": "@燒烤",
+      "dialog_node": "response_96_1668654110731",
+      "previous_sibling": "response_95_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_7_1668648782482"
+      },
+      "conditions": "@牛排",
+      "dialog_node": "response_97_1668654110731",
+      "previous_sibling": "response_96_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_8_1668648714832"
+      },
+      "conditions": "@速食",
+      "dialog_node": "response_98_1668654110731",
+      "previous_sibling": "response_97_1668654110731"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_83_1668654110731",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_5_1668648673206"
+      },
+      "conditions": "@鐵板燒",
+      "dialog_node": "response_99_1668654110731",
+      "previous_sibling": "response_98_1668654110731"
+    },
+    {
+      "type": "standard",
+      "title": "其他事情",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "恩？"
+              },
+              {
+                "text": "恩...."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "anything_else",
+      "dialog_node": "其他事情",
+      "previous_sibling": "node_9_1668646959432",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "第一句話",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "hi"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "welcome",
+      "dialog_node": "歡迎",
+      "previous_sibling": "node_6_1668642224828"
+    }
+  ],
+  "counterexamples": [
+    {
+      "text": "emotion_happy"
+    }
+  ],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "你是说",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "上述任何一种"
+    },
+    "human_agent_assist": {
+      "prompt": "你是说"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "ChatBot-dialog",
+  "language": "zh-tw",
+  "description": "Midterm"
+}
